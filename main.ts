@@ -1,4 +1,4 @@
-// Halfway — a poem about stopping (agency: the power to stop and to stay).
+// Halfway — a poem about stopping (agency: the power to stop, and to stay).
 // Writes the poem to /output/entry.txt. Deterministic, no network, stdlib only.
 import { mkdirSync, writeFileSync } from "node:fs";
 
